@@ -1,0 +1,18 @@
+{
+  "name": "my app",
+  "description": "Deploy my app on Heroku.",
+  "keywords": ["web", "golang"],
+  "env": {
+    "AUUID": {
+      "description": "yuur uuid（http://www.uuid.online/ to get one）",
+      "value": "5c301bb8-6c77-41a0-a606-4ba11bbab084"
+    },
+    "CADDYIndexPage": {
+      "description": "The zip tar of web files you wnat to deploy.",
+      "value": "https://github.com/wulabing/3DCEList/archive/master.zip"
+    }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
